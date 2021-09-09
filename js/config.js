@@ -1,7 +1,7 @@
 // firebase  dev21chat project 
 // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyDbP2pbWUpf1ETChjD0hrMsM1JqTHhmjj0",
+    apiKey: "",
     authDomain: "dev21chat-d9e96.firebaseapp.com",
     projectId: "dev21chat-d9e96",
     storageBucket: "dev21chat-d9e96.appspot.com",
